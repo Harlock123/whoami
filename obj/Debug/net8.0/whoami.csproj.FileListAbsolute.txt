@@ -1,0 +1,14 @@
+/Users/lwatson/Source/whoami/bin/Debug/net8.0/whoami
+/Users/lwatson/Source/whoami/bin/Debug/net8.0/whoami.deps.json
+/Users/lwatson/Source/whoami/bin/Debug/net8.0/whoami.runtimeconfig.json
+/Users/lwatson/Source/whoami/bin/Debug/net8.0/whoami.dll
+/Users/lwatson/Source/whoami/bin/Debug/net8.0/whoami.pdb
+/Users/lwatson/Source/whoami/obj/Debug/net8.0/whoami.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lwatson/Source/whoami/obj/Debug/net8.0/whoami.AssemblyInfoInputs.cache
+/Users/lwatson/Source/whoami/obj/Debug/net8.0/whoami.AssemblyInfo.cs
+/Users/lwatson/Source/whoami/obj/Debug/net8.0/whoami.csproj.CoreCompileInputs.cache
+/Users/lwatson/Source/whoami/obj/Debug/net8.0/whoami.dll
+/Users/lwatson/Source/whoami/obj/Debug/net8.0/refint/whoami.dll
+/Users/lwatson/Source/whoami/obj/Debug/net8.0/whoami.pdb
+/Users/lwatson/Source/whoami/obj/Debug/net8.0/whoami.genruntimeconfig.cache
+/Users/lwatson/Source/whoami/obj/Debug/net8.0/ref/whoami.dll
